@@ -12,6 +12,4 @@ from src.Class import Map
 
 i = 0
 map_object = Map('New Map', 200, 100)
-while i < 10:
-    map_object.draw_map(100)
-    i += 1
+
