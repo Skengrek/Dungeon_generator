@@ -11,5 +11,5 @@ from src.Class import Map
 
 
 i = 0
-map_object = Map('New Map', 100, 50)  # Name, Nb_room, Radius of first gen
+map_object = Map('New Map', 200, 100)  # Name, Nb_room, Radius of first gen
 
